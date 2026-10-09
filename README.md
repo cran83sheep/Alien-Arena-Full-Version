@@ -254,4 +254,4 @@ This repository serves as the official landing page for Alien Arena. The softwar
 **Get the most recent version of Alien Arena today!**
 
 ---
-**Last updated:** 2026-10-09 15:42:10 UTC
+**Last updated:** 2026-10-09 20:25:53 UTC
